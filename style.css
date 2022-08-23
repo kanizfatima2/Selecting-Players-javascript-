@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #1e1e1e;
+
+}
+
+.hero {
+    height: 500px;
+    background-color: black;
+    font-family: 'Oleo Script', cursive;
+    overflow: hidden;
+}
+
+.hero-img {
+    margin-top: 125px;
+}
+
+.hero-h1 {
+    font-size: 70px;
+}
+
+.button {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.button-total {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.selected {
+    height: 320px;
+}
+
+.budget-height {
+    height: 465px;
+}
